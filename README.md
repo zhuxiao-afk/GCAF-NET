@@ -14,4 +14,4 @@ We propose GCAF-Net, a geometry-informed graph neural network that integrates sp
 The code will be released soon.
 
 ## 📬 Contact
-If you have any questions, feel free to contact us.
+For any inquiries regarding this work, please contact: shu@ahu.edu.cn
